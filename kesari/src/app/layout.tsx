@@ -2,7 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 import { DM_Sans } from "next/font/google";
 
-export const font = DM_Sans({
+const dmSans = DM_Sans({
   subsets: ["latin"],
   weight: ["400", "500", "700"],
 });
@@ -19,9 +19,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body
-        className={`${font.className} bg-gradient-to-b from-yellow-500 to-orange-500 min-h-screen`}
-      >
+      <body className={`${dmSans.className} bg-gradient-to-b from-yellow-500 to-orange-500 min-h-screen`}>
         {children}
       </body>
     </html>

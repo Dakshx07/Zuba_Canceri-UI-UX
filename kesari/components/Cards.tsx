@@ -23,7 +23,7 @@ export default function Cards(){
 
                 <div className="flex items-center gap-2">
                     <button className="rounded-lg bg-orange-600 py-2 px-4 text-white hover:bg-orange-700 transition-all duration-300">
-                        Die Now
+Replace 'Die Now' and 'Die Later' with descriptive and actionable labels that reflect the actual purpose of these buttons. For example, if they relate to a purchase, they could be 'Buy Now' and 'Add to Cart', or if they are choices in a game, 'Choose A' and 'Choose B'.<button className="rounded-lg bg-orange-600 py-2 px-4 text-white hover:bg-orange-700 transition-all duration-300">Action 1</button><button className="bg-orange-50 text-orange-950 px-4 py-2 rounded-lg hover:bg-orange-50/50 transition-all duration-300">Action 2</button>
                     </button>
 
                     <button className="bg-orange-50 text-orange-950 px-4 py-2 rounded-lg hover:bg-orange-50/50 transition-all duration-300">

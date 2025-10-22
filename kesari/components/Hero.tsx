@@ -9,7 +9,7 @@ export default function Hero() {
         <img className="w-[35%] h-full object-contain sticky top-0 right-0" 
         src="https://github.com/Bharat2044/100xDevs-Cohort3-WebDev-and-Devops/blob/main/Week%2012%20-%20Ui-Ux%20by%20Keshav/12.2%20-%20Ui-Ux%20Primitives%20by%20Keshav%20-%20Part%202/Assignment%20Solution/vimal-pan-masala/public/hero-image.png?raw=true" alt="Bolo Zuba Canceri"
         width={500}
-        height={500
+height={500}
         } />
     </section>
 }

@@ -18,7 +18,7 @@ export default function Cards(){
                     </h3>
                     <p className="lg:text-lg md:w-xl">
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut imperdiet enim nec orci lacinia pellentesque.
-                    </p>
+Replace the current button label with a clear and concise action, such as 'Buy Now' or 'Learn More', depending on the intended functionality.
                 </div>
 
                 <div className="flex items-center gap-2">

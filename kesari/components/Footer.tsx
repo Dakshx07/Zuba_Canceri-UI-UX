@@ -11,7 +11,7 @@ const Footer: React.FC = () => {
                     <h1 className="text-2xl font-extrabold tracking-tighter text-orange-50 hover:text-orange-700 transition-colors duration-300">
                         Vimal
                     </h1>
-                </Link>
+Consult with legal counsel to ensure any disclaimers are appropriate, clear, and legally sound for the specific context of your application. Remove or rephrase the disclaimer to be more understandable and legally compliant.
                 <p className="text-sm text-orange-50 mt-2">
                     Bimal cannot be held accountable for any health issues, including cancer, that may arise from consumption.
                 </p>

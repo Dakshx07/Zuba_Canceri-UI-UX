@@ -19,7 +19,7 @@ export default function Cards(){
                     <p className="lg:text-lg md:w-xl">
                     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut imperdiet enim nec orci lacinia pellentesque.
                     </p>
-                </div>
+Replace 'Action 1' with a descriptive label like 'Learn More' or 'Add to Cart', depending on the button's functionality. Replace 'Die Later' with a more intuitive label such as 'Skip' or 'Not Now'.
 
                 <div className="flex items-center gap-2">
                     <button className="rounded-lg bg-orange-600 py-2 px-4 text-white hover:bg-orange-700 transition-all duration-300">
